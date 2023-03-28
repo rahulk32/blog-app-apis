@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;microservices&apos;" deleteContents="false" description="Delete resource &apos;microservices&apos;" element1="/microservices" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1677740009546"/>
+</session>
